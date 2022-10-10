@@ -1,2 +1,1 @@
-# ugr7006
-ugr7006 scripts
+This project is an experiment based on https://github.com/yangheng95/PyABSA framework
